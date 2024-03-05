@@ -1,0 +1,31 @@
+.home_container{
+    text-align: center;
+    min-height: 60vh;
+    margin-top: 5rem;
+}
+
+.home_title{
+
+}
+
+.home_container{
+
+}
+
+.home_btn{
+    display: flex;
+  justify-content: center;
+  gap: 5rem;
+  margin-top: 2rem;
+}
+
+.btn_primary{
+    width: 120px;
+    height: 50px;
+    background-color: #2185D0;
+    border-radius: 15px;
+    color:white
+}
+.font_light{
+    font-size: 0.5rem;
+}
